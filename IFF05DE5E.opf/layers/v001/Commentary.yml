@@ -1,0 +1,93 @@
+id: 04fac5580bc84c92a0a63621e4c4b306
+annotation_type: Commentary
+revision: '00001'
+annotations:
+  6a4c0d49a3214d23b9823dd829e18e0d:
+    span:
+      start: 96
+      end: 2512
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  5ed880462ef14018b54000f35cf19804:
+    span:
+      start: 2514
+      end: 3153
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  184009a8b982435786f180a76399b26e:
+    span:
+      start: 3155
+      end: 4595
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  3fa505ec13a948a2a68b629c75c25d21:
+    span:
+      start: 4597
+      end: 5989
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  f405c62c27e449e38e9720bc7d716ae2:
+    span:
+      start: 5991
+      end: 7170
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  5f68766acd5c4bd2a18c291e7732e9e9:
+    span:
+      start: 7172
+      end: 7876
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  f8737e9e1ad44759919e645c62c9a102:
+    span:
+      start: 7878
+      end: 10787
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  0364a888a7bb42fc97ad9729a1044f02:
+    span:
+      start: 10789
+      end: 13000
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  be1507cbdbb744aea87f58c39f124989:
+    span:
+      start: 13002
+      end: 16307
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  998e8242458445feb2b154eecd4ef0d6:
+    span:
+      start: 16309
+      end: 20848
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  dbbfcf44abe14d74a0267c10a9147369:
+    span:
+      start: 20850
+      end: 25164
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+local_ids:
+  6a4c0d49a3214d23b9823dd829e18e0d: 200000
+  5ed880462ef14018b54000f35cf19804: 200001
+  184009a8b982435786f180a76399b26e: 200002
+  3fa505ec13a948a2a68b629c75c25d21: 200003
+  f405c62c27e449e38e9720bc7d716ae2: 200004
+  5f68766acd5c4bd2a18c291e7732e9e9: 200005
+  f8737e9e1ad44759919e645c62c9a102: 200006
+  0364a888a7bb42fc97ad9729a1044f02: 200007
+  be1507cbdbb744aea87f58c39f124989: 200008
+  998e8242458445feb2b154eecd4ef0d6: 200009
+  dbbfcf44abe14d74a0267c10a9147369: 200010

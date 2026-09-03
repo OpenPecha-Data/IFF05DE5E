@@ -1,0 +1,21 @@
+id: IFF05DE5E
+initial_creation_type: ebook
+source_metadata:
+  id: BOK-016
+  title: རི་ཆོས་ཐར་ལམ་མཛུབ་སྟོན།
+  author: མཛད་པ་པོ། ཀརྨ་ངེས་དོན་བསྟན་རྒྱས།
+  authors: &id001
+  - མཛད་པ་པོ། ཀརྨ་ངེས་དོན་བསྟན་རྒྱས།
+  sku: BOK-016
+  cover: BOK-016.jpg
+  volume: {}
+ebook_metadata:
+  title: རི་ཆོས་ཐར་ལམ་མཛུབ་སྟོན།
+  authors: *id001
+  sku: BOK-016
+  cover: BOK-016.jpg
+layers:
+- Author
+- BookTitle
+- Chapter
+- Commentary
